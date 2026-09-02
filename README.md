@@ -1,6 +1,6 @@
 </div>
 <div align="center">
-<img width="750" height="311" alt="Thiết kế chưa có tên (8)" src="https://github.com/user-attachments/assets/e9bf3f23-0758-45dc-92b4-bfb73034b367" />
+<img width="763" height="334" alt="Thiết kế chưa có tên (9)" src="https://github.com/user-attachments/assets/2e5d1629-a74d-4d97-8076-0fd801a111c7" />
 
 
 </div>
