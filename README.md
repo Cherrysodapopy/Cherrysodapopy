@@ -1,12 +1,12 @@
 </div>
 <div align="center">
-<img width="1312" height="544" alt="SODA CAM (1)" src="https://github.com/user-attachments/assets/50483e8d-7c8d-4d6e-ad07-829efffa1f7c" />
+
+  [<img alt="7e583932ac53a4298b06d90819f7878e" src="https://github.com/user-attachments/assets/f6a3f5e4-ff46-4828-95f8-2f1bee4eb498" />](https://github.com/Friendlybites)
 
 
 </div>
 <div align="center">
-
-<img width="346" height="152" alt="7e583932ac53a4298b06d90819f7878e" src="https://github.com/user-attachments/assets/f6a3f5e4-ff46-4828-95f8-2f1bee4eb498" />
+<img width="1312" height="544" alt="SODA CAM (1)" src="https://github.com/user-attachments/assets/50483e8d-7c8d-4d6e-ad07-829efffa1f7c" />
 
 </div>
 <div align="center">
