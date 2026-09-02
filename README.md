@@ -1,6 +1,6 @@
 </div>
 <div align="center">
-<img width="763" height="334" alt="Thiết kế chưa có tên (9)" src="https://github.com/user-attachments/assets/2e5d1629-a74d-4d97-8076-0fd801a111c7" />
+<img width="1312" height="544" alt="SODA CAM (1)" src="https://github.com/user-attachments/assets/50483e8d-7c8d-4d6e-ad07-829efffa1f7c" />
 
 
 </div>
