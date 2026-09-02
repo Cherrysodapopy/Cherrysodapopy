@@ -3,7 +3,7 @@
 
   [<img alt="7e583932ac53a4298b06d90819f7878e" src="https://github.com/user-attachments/assets/f6a3f5e4-ff46-4828-95f8-2f1bee4eb498" />](https://github.com/Friendlybites)
 
-  <p align="center">$\Huge{\textsf{\color{#f59ccd} 𝐩𝐫𝐞𝐬𝐬 𝐡𝐞𝐫𝐞 𝐟𝐨𝐫 𝐟𝐫𝐞𝐞 𝐜𝐚𝐧𝐝𝐢𝐞𝐬 ↑}}$</p>
+  <p align="center">$\Huge{\textsf{\color{#f59ccd} 𝐩𝐫𝐞𝐬𝐬 𝐎𝐊 𝐟𝐨𝐫 𝐟𝐫𝐞𝐞 𝐜𝐚𝐧𝐝𝐢𝐞𝐬 ↑}}$</p>
 
 
 </div>
