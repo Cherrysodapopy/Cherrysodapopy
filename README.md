@@ -1,7 +1,12 @@
 </div>
 <div align="center">
+<img width="750" height="311" alt="Thiết kế chưa có tên (8)" src="https://github.com/user-attachments/assets/e9bf3f23-0758-45dc-92b4-bfb73034b367" />
 
-<img width="646" height="252" alt="7e583932ac53a4298b06d90819f7878e" src="https://github.com/user-attachments/assets/f6a3f5e4-ff46-4828-95f8-2f1bee4eb498" />
+
+</div>
+<div align="center">
+
+<img width="546" height="252" alt="7e583932ac53a4298b06d90819f7878e" src="https://github.com/user-attachments/assets/f6a3f5e4-ff46-4828-95f8-2f1bee4eb498" />
 
 </div>
 <div align="center">
